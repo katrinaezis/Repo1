@@ -13,3 +13,4 @@ line6
 0
 Trying to create a conflict 
 Just writing something
+I'm adding something else
