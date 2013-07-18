@@ -15,3 +15,4 @@ Trying to create a conflict
 Just writing something
 I'm adding something else
 my email is katrinaezis@gmail.com
+<h1>This is a header</h1>
