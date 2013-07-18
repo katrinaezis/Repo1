@@ -20,3 +20,5 @@ my email is katrinaezis@gmail.com
 <p> <li>We learned a lot about rebase
 checkout codeschool.com </li> </p>
 </h1>
+
+Hey!  You added some HTML!
