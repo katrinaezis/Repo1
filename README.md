@@ -17,4 +17,6 @@ I'm adding something else
 my email is katrinaezis@gmail.com
 <h1>This is a header
 <p>Checkout our "new" branch </p>
+<p> <li>We learned a lot about rebase
+checkout codeschool.com </li> </p>
 </h1>
