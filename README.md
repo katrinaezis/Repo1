@@ -12,4 +12,4 @@ line6
 9
 0
 Trying to create a conflict 
-Resolve last conflict
+Just writing something
