@@ -21,4 +21,4 @@ my email is katrinaezis@gmail.com
 checkout codeschool.com </li> </p>
 </h1>
 
-Hey!  You added some HTML!
+<b>Hey!  You added some <span style="color: #333399;">HTML</span>!</b>
