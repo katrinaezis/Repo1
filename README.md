@@ -6,9 +6,10 @@ First commit
 3
 4
 5
-6
+line6
 7
 8
 9
 0
 Trying to create a conflict 
+Resolve last conflict
