@@ -21,9 +21,7 @@ my email is katrinaezis@gmail.com
 <p> <OL>We learned a lot about rebase</OL>
 	<ol>Checkout codeschool.com</ol></p>
 </h1>
-<p> <li>We learned a lot about rebase
-checkout <link rel="stylesheet" type="text/css" href="http://www.codeschool.com/"> codeschool.com </li> </p>
-</h1>
-
 <b>Hey!  You added some <span style="color: #333399;">HTML</span>!</b>
-
+<b>Yeah I did! I have very little HTML knowledge, but I thought I'd give it a try!</b>
+<b>I had a hard time accessing our files for some reason git was pulling from all the files on my computer and trying to push those at you, which could have been very bad!</b>
+<b>Anything that you're trying to learn on here that I could help with?</b>
